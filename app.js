@@ -43,3 +43,9 @@ console.log(cohort.getName.apply(kevin));
 (arg1, arg2) => {
   console.log(this.name);
 }
+
+
+// let and const
+
+
+// other ES6
